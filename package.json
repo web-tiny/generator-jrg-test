@@ -1,0 +1,10 @@
+{
+  "name": "generator-jrg-test",
+  "version": "1.0.0",
+  "description": "yeoman, generator",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
